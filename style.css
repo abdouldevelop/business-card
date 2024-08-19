@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mon-image{
+    width: 150px;
+}
+.card{
+    padding : 20px;
+    display : flex;
+    justify-content: space-around;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background: #edd281;
+    border-bottom: 8px solid black;
+}
+.italic{
+    font-style : italic;
+}
+
+.border-blue{
+    border : 1px dotted blue;
+}
